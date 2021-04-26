@@ -1,0 +1,63 @@
+-----------Tiquete numero: 1  ----------
+
+Fecha del sistema: 19-12-2018
+Fecha del evento:  
+Lugar del evento:  
+Hora del evento:  
+Localidad del asiento: 4,4
+
+Total a pagar: 19924  I.V.I.
+-----------Tiquete numero: 2  ----------
+
+Fecha del sistema: 19-12-2018
+Fecha del evento:  
+Lugar del evento:  
+Hora del evento:  
+Localidad del asiento: 2,2
+
+Total a pagar: 19924  I.V.I.
+-----------Tiquete numero: 3  ----------
+
+Fecha del sistema: 19-12-2018
+Fecha del evento:  
+Lugar del evento:  
+Hora del evento:  
+Localidad del asiento: 2,2
+
+Total a pagar: 19924  I.V.I.
+-----------Tiquete numero: 4  ----------
+
+Fecha del sistema: 19-12-2018
+Fecha del evento:  
+Lugar del evento:  
+Hora del evento:  
+Localidad del asiento: 0,0
+
+Total a pagar: 19924  I.V.I.
+-----------Tiquete numero: 5  ----------
+
+Fecha del sistema: 19-12-2018
+Fecha del evento:  
+Lugar del evento:  
+Hora del evento:  
+Localidad del asiento: 5,5
+
+Total a pagar: 19924  I.V.I.
+-----------Tiquete numero: 1  ----------
+
+Fecha del sistema: 19-12-2018
+Fecha del evento:  
+Lugar del evento:  
+Hora del evento:  
+Localidad del asiento: 2,2
+
+Total a pagar: 19924  I.V.I.
+-----------Tiquete numero: 1  ----------
+
+Fecha del sistema: 19-12-2018
+Fecha del evento: 26-12-2018
+Lugar del evento: Heredia
+Hora del evento: 17:00
+Localidad del asiento: 10,100
+
+Total a pagar: 19924  I.V.I.
